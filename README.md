@@ -6,7 +6,7 @@ This is a sample repostiroy for use with the Urban Wildlife Information Network'
 
 In this section we will have some **bold text**
 
-###This is how we make a sub-sub-header
+### This is how we make a sub-sub-header
 
 In this section we will have some *italicized text*
 
